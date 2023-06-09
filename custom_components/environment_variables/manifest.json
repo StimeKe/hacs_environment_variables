@@ -1,0 +1,6 @@
+{
+    "domain": "environment_variables",
+    "name": "Set Environment Variables",
+    "version": "1.0.0",
+    "codeowners": ["@small_ke"]
+}
